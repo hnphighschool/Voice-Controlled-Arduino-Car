@@ -1,2 +1,4 @@
 # Voice-Controlled-Arduino-Car
-Controllin a car with your voice using Arduino.
+Controlling a car with your voice using Arduino.
+
+*NOTE* while uploading the code remove RX and TX wires from the board.
